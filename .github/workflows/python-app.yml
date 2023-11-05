@@ -29,4 +29,4 @@ jobs:
         python calculator_py.py
     - name: Run Tests
       run: |
-          python caltest_py.py
+        python caltest_py.py
